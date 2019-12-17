@@ -1,2 +1,2 @@
-# typescript-starter
-A collection of Typescript starter projects
+# Typescript Starter Templates
+A collection of starter templates for Typescript projects
